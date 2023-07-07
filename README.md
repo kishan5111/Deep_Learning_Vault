@@ -13,7 +13,7 @@ Welcome to the Deep Learning Vault! This repository serves as a collection of my
 
 ## Notebooks 📓
 
-The `notebooks` directory contains a variety of Jupyter notebooks covering different topics in deep learning. These notebooks are a combination of my own creations, code from Kaggle competitions, and exercises from courses I am currently enrolled in. Each notebook is self-contained and provides explanations, code examples, and practical exercises to enhance understanding. Feel free to explore, learn from, and build upon them.
+The [`notebooks`](https://github.com/kishan5111/Deep_Learning_Vault/tree/main/notebooks) directory contains a variety of Jupyter notebooks covering different topics in deep learning. These notebooks are a combination of my own creations, code from Kaggle competitions, and exercises from courses I am currently enrolled in. Each notebook is self-contained and provides explanations, code examples, and practical exercises to enhance understanding. Feel free to explore, learn from, and build upon them.
 
 ## Projects 🚀
 
@@ -21,7 +21,7 @@ In the `projects` directory, you will find hands-on projects that showcase the a
 
 ## Resources 📚
 
-The `resources` directory hosts additional resources such as tutorials, articles, datasets, and pretrained models. These resources have been carefully curated to complement the learning material found in the notebooks and projects. They can be valuable references for expanding your knowledge and enhancing your skills in deep learning.
+The [`resources`](https://github.com/kishan5111/Deep_Learning_Vault/tree/main/resources) directory hosts additional resources such as tutorials, articles, datasets, and pretrained models. These resources have been carefully curated to complement the learning material found in the notebooks and projects. They can be valuable references for expanding your knowledge and enhancing your skills in deep learning.
 
 ## Contributing 🤝
 
@@ -29,7 +29,7 @@ As the content in this repository is primarily my own, contributions from others
 
 ## Timetable 📅
 
-Please switch to the [`timetable`](https://github.com/yourusername/Deep-Learning-Vault/tree/timetable) branch to view the detailed timeline and progress log of this project.
+Please switch to the [`timetable`](https://github.com/kishan5111/Deep_Learning_Vault/tree/main/timetable) branch to view the detailed timeline and progress log of this project.
 
 ## License 📜
 
